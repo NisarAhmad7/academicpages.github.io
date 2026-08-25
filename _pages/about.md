@@ -4,20 +4,19 @@ title: "👋 Hello, I'm Nisar Ahmad Zamani"
 author_profile: true
 ---
 
-# 👋 Hello, I'm Nisar Ahmad Zamani
-
 <div style="display: flex; align-items: center; gap: 30px;">
 
-<div style="flex: 1;">
+  <div style="flex: 1;">
 
-I’m a **Machine Learning & AI Engineer** passionate about building practical AI systems.
+    I’m a **Machine Learning & AI Engineer** passionate about building practical AI systems.
 
-My interests include **Machine Learning, Deep Learning, NLP, LLMs, RAG, and Agentic AI**.
+    My interests include **Machine Learning, Deep Learning, NLP, LLMs, RAG, and Agentic AI**.
 
-</div>
+  </div>
 
-<img src="{{ '/images/profile.jpg' | relative_url }}" 
-     alt="Nisar Ahmad Zamani" width="300">
+  <img src="{{ '/images/homepage.png' | relative_url }}"
+       alt="Nisar Ahmad Zamani"
+       width="300">
 
 </div>
 
