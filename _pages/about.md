@@ -1,21 +1,11 @@
 ---
 permalink: /
-title: "👋 Hello there, I`m Nisar"
+title: "👋 Hello, I'm Nisar Ahmad Zamani"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-
----
-layout: home
-author_profile: true
----
-</div>
-
-<img src="/images/homepage.jpg" alt="Contact" width="300">
-
-</div>
 
 # 👋 About Me
 
@@ -23,13 +13,13 @@ author_profile: true
 
 <div style="flex: 1;">
 
-I am **[Your Name]**, a **[Your Academic Position / Degree]** interested in **🤖 Robotics, ⚙️ Mechanical Engineering, 💻 Programming, and 🚀 Technology**.
+I am **Nisar Ahmad Zamani**, a **Machine Learning Engineer** interested in **🤖 Artificial Intelligence, 🧠 Machine Learning, 💬 NLP, 🧩 LLMs, and 🚀 Agentic AI**.
 
-My academic interests focus on developing practical engineering skills, working on technical projects, learning modern technologies, and applying theoretical knowledge to real-world problems.
+I build practical AI systems including machine learning applications, deep learning models, NLP solutions, LLM-powered applications, RAG systems, and AI agents.
 
 </div>
 
-<img src="/images/profile.jpg" alt="Profile Photo" width="300">
+<img src="{{ '/images/homepage.jpg' | relative_url }}" alt="AI and Machine Learning" width="300">
 
 </div>
 
@@ -39,13 +29,13 @@ My academic interests focus on developing practical engineering skills, working 
 
 <div style="display: flex; align-items: center; gap: 30px;">
 
-<img src="/images/academic.jpg" alt="Academic Interests" width="300">
+<img src="{{ '/images/academic.jpg' | relative_url }}" alt="Academic Interests" width="300">
 
 <div style="flex: 1;">
 
-My main academic interests include **🤖 robotics, ⚙️ mechanical engineering, 💻 programming, 🔧 automation, and 🌐 engineering technology**.
+My main academic interests include **🤖 Artificial Intelligence, 🧠 Machine Learning, 🔬 Deep Learning, 💬 Natural Language Processing, 🧩 Large Language Models, and 🚀 Agentic AI**.
 
-I am particularly interested in combining engineering knowledge with programming and modern technologies to develop practical solutions to real-world problems.
+I am particularly interested in developing intelligent systems that combine modern AI techniques with practical real-world applications.
 
 </div>
 
@@ -53,35 +43,35 @@ I am particularly interested in combining engineering knowledge with programming
 
 ---
 
-# 🤖 Robotics
+# 🧠 Machine Learning & Deep Learning
 
 <div style="display: flex; align-items: center; gap: 30px;">
 
 <div style="flex: 1;">
 
-I am interested in **robotics and automated systems**, including robot design, programming, sensors, control systems, and practical robotic applications.
+My work includes **machine learning and deep learning** for classification, prediction, NLP, and intelligent applications.
 
-I enjoy building and programming robots and exploring how mechanical systems, electronics, and software can work together.
+I work with **Python, Scikit-learn, PyTorch, neural networks, CNNs, Transformers, and model fine-tuning**.
 
 </div>
 
-<img src="/images/robotics.jpg" alt="Robotics" width="300">
+<img src="{{ '/images/ml.jpg' | relative_url }}" alt="Machine Learning" width="300">
 
 </div>
 
 ---
 
-# ⚙️ Mechanical Engineering
+# 💬 NLP & LLMs
 
 <div style="display: flex; align-items: center; gap: 30px;">
 
-<img src="/images/mechanical.jpg" alt="Mechanical Engineering" width="300">
+<img src="{{ '/images/nlp.jpg' | relative_url }}" alt="NLP and LLMs" width="300">
 
 <div style="flex: 1;">
 
-My interests in **mechanical engineering** include mechanical design, CAD, mechanisms, engineering systems, and practical problem-solving.
+I am interested in **Natural Language Processing and Large Language Models**, including **Transformers, embeddings, RAG, vector databases, prompt engineering, and fine-tuning**.
 
-I am interested in understanding how machines work and applying engineering principles to design and improve mechanical systems.
+I build AI applications that can understand, retrieve, analyze, and generate natural language.
 
 </div>
 
@@ -89,21 +79,19 @@ I am interested in understanding how machines work and applying engineering prin
 
 ---
 
-# 💻 Programming
+# 🤖 Agentic AI
 
 <div style="display: flex; align-items: center; gap: 30px;">
 
 <div style="flex: 1;">
 
-Programming is an important part of my technical development.
+I work with **Agentic AI systems** using tools, structured workflows, memory, and multi-agent architectures.
 
-I use programming to solve engineering problems, develop projects, automate systems, and control technological devices.
-
-My programming interests include **🐍 Python, ⚡ C++, and other technologies related to engineering and robotics**.
+My interests include **LangChain, LangGraph, tool calling, RAG, AI agents, and multi-agent systems** for building autonomous AI applications.
 
 </div>
 
-<img src="/images/programming.jpg" alt="Programming" width="300">
+<img src="{{ '/images/agentic-ai.jpg' | relative_url }}" alt="Agentic AI" width="300">
 
 </div>
 
@@ -113,13 +101,13 @@ My programming interests include **🐍 Python, ⚡ C++, and other technologies 
 
 <div style="display: flex; align-items: center; gap: 30px;">
 
-<img src="/images/projects.jpg" alt="Projects" width="300">
+<img src="{{ '/images/projects.jpg' | relative_url }}" alt="AI Projects" width="300">
 
 <div style="flex: 1;">
 
-This website presents selected **academic projects, robotics projects, engineering work, programming projects, research activities, and technical achievements**.
+This website presents selected **AI and machine learning projects**, including chatbots, NLP systems, deep learning applications, RAG systems, AI agents, and multi-agent applications.
 
-Each project can include its objectives, technologies used, methodology, and results.
+Each project highlights its objectives, technologies, implementation, and results.
 
 </div>
 
@@ -133,36 +121,42 @@ Each project can include its objectives, technologies used, methodology, and res
 
 <div style="flex: 1;">
 
-**[Your Degree / Program]**  
-**[Your University / Institution]**  
-[Year – Present]
+**Computer Science**
 
-My education provides the foundation for my interests in engineering, robotics, programming, and technology.
+**Rawalpindi, Pakistan**
+
+**2023 – 2025**
+
+My academic background provided the foundation for my interests in **programming, machine learning, artificial intelligence, and software development**.
 
 </div>
 
-<img src="/images/education.jpg" alt="Education" width="300">
+<img src="{{ '/images/education.jpg' | relative_url }}" alt="Education" width="300">
 
 </div>
 
 ---
 
-# 🧰 Skills
+# 🧰 Technical Skills
 
 <div style="display: flex; align-items: center; gap: 30px;">
 
-<img src="/images/skills.jpg" alt="Technical Skills" width="300">
+<img src="{{ '/images/skills.jpg' | relative_url }}" alt="Technical Skills" width="300">
 
 <div style="flex: 1;">
 
-- 🤖 **Robotics**
-- ⚙️ **Mechanical Engineering**
 - 🐍 **Python**
-- 💻 **C++**
-- 📐 **CAD & Mechanical Design**
-- 🔧 **Automation**
-- 🧠 **Problem Solving**
-- 🔬 **Technical Research**
+- 🗄️ **SQL**
+- 🧠 **Machine Learning**
+- 🔥 **PyTorch & Deep Learning**
+- 💬 **NLP & Transformers**
+- 🤖 **LLMs & Generative AI**
+- 🧩 **LangChain & LangGraph**
+- 🔎 **RAG & Vector Databases**
+- 🚀 **AI Agents & Multi-Agent Systems**
+- 🐳 **Docker**
+- ⚡ **FastAPI & Streamlit**
+- 🔧 **Git & GitHub**
 
 </div>
 
@@ -176,13 +170,13 @@ My education provides the foundation for my interests in engineering, robotics, 
 
 <div style="flex: 1;">
 
-I am continuously learning and developing my knowledge in **engineering, robotics, programming, automation, and emerging technologies**.
+I continuously explore **Artificial Intelligence, Machine Learning, Deep Learning, NLP, LLMs, and Agentic AI**.
 
-My goal is to build strong technical expertise and contribute to meaningful academic, research, and engineering projects.
+My goal is to develop strong technical expertise, build practical intelligent systems, and contribute to meaningful **AI research and real-world applications**.
 
 </div>
 
-<img src="/images/research.jpg" alt="Research and Learning" width="300">
+<img src="{{ '/images/research.jpg' | relative_url }}" alt="AI Research and Learning" width="300">
 
 </div>
 
@@ -192,11 +186,13 @@ My goal is to build strong technical expertise and contribute to meaningful acad
 
 <div style="display: flex; align-items: center; gap: 30px;">
 
-<img src="/images/work.jpg" alt="Featured Work" width="300">
+<img src="{{ '/images/work.jpg' | relative_url }}" alt="Featured AI Work" width="300">
 
 <div style="flex: 1;">
 
-Selected projects, research activities, engineering work, presentations, publications, and other academic achievements will be showcased on this website.
+Selected **AI projects, research activities, technical work, and professional achievements** are showcased throughout this website.
+
+My portfolio demonstrates practical experience in building modern AI systems from machine learning models to LLM-powered and agentic applications.
 
 </div>
 
@@ -210,5 +206,10 @@ Selected projects, research activities, engineering work, presentations, publica
 
 <div style="flex: 1;">
 
-For academic collaboration, research opportunities, technical projects, or professional inquiries, please use the contact information available on this website.
+I am open to **AI research, machine learning projects, collaboration, and professional opportunities**.
 
+Feel free to connect with me through the contact and social links available on this website.
+
+</div>
+
+</div>
