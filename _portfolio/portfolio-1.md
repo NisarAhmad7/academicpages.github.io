@@ -1,7 +1,24 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "AI Shopping Assistant"
+excerpt: "A multi-agent AI shopping assistant for intelligent product search, review analysis, recommendations, and checkout.<br/><img src='/images/ai-shopping.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## AI Shopping Assistant
+
+A **multi-agent AI shopping assistant** built with **LangGraph and LangChain** to provide intelligent and personalized product recommendations.
+
+### Key Features
+
+- Product search and filtering
+- Product rating and review analysis
+- Product image analysis using Vision LLM
+- Personalized recommendations
+- Shopping and checkout workflow
+- SQLite-based product and order management
+
+### Technologies
+
+**Python · LangChain · LangGraph · LLMs · Vision LLM · Multi-Agent AI · Tool Calling · SQLite**
+
+This project demonstrates practical experience in building **Agentic AI systems and intelligent e-commerce applications**.
