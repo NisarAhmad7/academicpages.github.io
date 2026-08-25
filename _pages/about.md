@@ -2,65 +2,61 @@
 permalink: /
 title: "👋 Hello, I'm Nisar Ahmad Zamani"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
-<div style="display: flex; align-items: center; gap: 300px;">
+# 👋 Hello, I'm Nisar Ahmad Zamani
+
+<div style="display: flex; align-items: center; gap: 30px;">
 
 <div style="flex: 1;">
 
-I’m a **Machine Learning & AI Engineer** passionate about building practical and intelligent AI systems.
+I’m a **Machine Learning & AI Engineer** passionate about building practical AI systems.
 
-I work with **Machine Learning, Deep Learning, NLP, LLMs, RAG, and Agentic AI**, and I enjoy turning ideas into real-world AI applications.
-
-</div>
-
-<img src="{{ '/images/profile.jpg' | relative_url }}" alt="Nisar Ahmad Zamani" width="300">
+My interests include **Machine Learning, Deep Learning, NLP, LLMs, RAG, and Agentic AI**.
 
 </div>
 
----
+<img src="{{ '/images/profile.jpg' | relative_url }}" 
+     alt="Nisar Ahmad Zamani" width="300">
 
-# 🧠 Machine Learning
-
-I work with machine learning techniques for **classification, prediction, data analysis, and intelligent applications**, using tools such as **Python, Scikit-learn, and SQL**.
-
----
-
-# 🔥 Deep Learning
-
-I build deep learning models using **PyTorch, Neural Networks, CNNs, Transformers, and fine-tuning techniques** for practical AI applications.
+</div>
 
 ---
 
-# 💬 Natural Language Processing
+## 🧠 Machine Learning
 
-I am interested in **NLP, text classification, tokenization, embeddings, Transformers, and language understanding**, building systems that can work with and understand human language.
+I work with machine learning for classification, prediction, data analysis, and intelligent applications.
 
----
+## 🔥 Deep Learning
 
-# 🧩 Large Language Models
+I build deep learning models using PyTorch, neural networks, CNNs, Transformers, and fine-tuning.
 
-I work with **LLMs, prompt engineering, embeddings, RAG, vector databases, structured outputs, and tool calling** to create useful AI-powered applications.
+## 💬 NLP
 
----
+I work with NLP, text classification, embeddings, Transformers, and language understanding.
 
-# 🤖 Agentic AI
+## 🧩 LLMs
 
-I build **AI agents and multi-agent systems** using tools, workflows, memory, and technologies such as **LangChain and LangGraph**.
+I build LLM applications using RAG, embeddings, vector databases, prompt engineering, and tool calling.
 
----
+## 🤖 Agentic AI
 
-# 🛠️ Portfolio
-
-My portfolio includes practical projects in **Machine Learning, Deep Learning, NLP, LLMs, RAG, and Agentic AI**.
+I build AI agents and multi-agent systems using LangChain, LangGraph, tools, and structured workflows.
 
 ---
 
-# 📬 Contact
+## 🛠️ Selected Projects
 
-I’m always interested in **AI projects, collaboration, learning, and new opportunities**.
+A selection of my AI and machine learning projects is available in my portfolio.
 
-Feel free to connect with me through the links on this website.
+[View Portfolio →](/portfolio/)
+
+---
+
+## 📬 Let's Connect
+
+I'm interested in AI projects, research, collaboration, and professional opportunities.
+
+[GitHub](https://github.com/NisarAhmad7) ·
+[LinkedIn](https://www.linkedin.com/in/nisar-ahmad-zamani-7b10b63a9/) ·
+[X](https://x.com/NisarZamani7)
