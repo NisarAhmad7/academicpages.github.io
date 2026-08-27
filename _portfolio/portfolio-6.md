@@ -1,6 +1,11 @@
 ---
 title: "NeuroChat AI — NLP Chatbot"
-excerpt: "A neural network-based chatbot built from scratch with PyTorch and NLTK for intent classification and intelligent conversational responses.<br/><img src='/images/nuron-cchat-ai.png'>"
+
+excerpt: >-
+  A neural network-based chatbot built from scratch with PyTorch and NLTK for intent classification
+  and intelligent conversational responses.<br/>
+  <img src="{{ '/images/nuron-cchat-ai.png' | relative_url }}">
+
 collection: portfolio
 ---
 

@@ -1,6 +1,11 @@
 ---
 title: "Market Segmentation System"
-excerpt: "An AI-powered market segmentation system that analyzes customer data and identifies meaningful customer groups.<br/><img src='/images/market-seg.png'>"
+
+excerpt: >-
+  An AI-powered market segmentation system that analyzes customer data and identifies
+  meaningful customer groups.<br/>
+  <img src="{{ '/images/market-seg.png' | relative_url }}">
+
 collection: portfolio
 ---
 

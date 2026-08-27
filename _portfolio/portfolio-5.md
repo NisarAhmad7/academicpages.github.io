@@ -1,6 +1,11 @@
 ---
 title: "Resume Screening System"
-excerpt: "An AI-powered resume screening system for automatically analyzing, classifying, and matching resumes with job requirements.<br/><img src='/images/resume-screaning.png'>"
+
+excerpt: >-
+  An AI-powered resume screening system for automatically analyzing, classifying,
+  and matching resumes with job requirements.<br/>
+  <img src="{{ '/images/resume-screaning.png' | relative_url }}">
+
 collection: portfolio
 ---
 

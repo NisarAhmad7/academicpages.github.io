@@ -1,6 +1,9 @@
 ---
 title: "TeleCare AI Assistant"
-excerpt: "An AI-powered healthcare assistant for intelligent conversation, information retrieval, and personalized user support.<br/><img src='/images/telecome-ai.png'>"
+excerpt: >-
+  An AI-powered healthcare assistant for intelligent conversation, information retrieval,
+  and personalized user support.<br/>
+  <img src="{{ '/images/telecome-ai.png' | relative_url }}">
 collection: portfolio
 ---
 

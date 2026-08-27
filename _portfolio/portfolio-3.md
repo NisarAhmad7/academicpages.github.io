@@ -1,6 +1,11 @@
 ---
 title: "CodePilot AI — Multi-Agent Software Engineer"
-excerpt: "A multi-agent AI software engineering system that transforms natural-language requirements into complete software projects through planning, architecture, and automated code generation.<br/><img src='/images/ai-eningeer.png'>"
+
+excerpt: >-
+  A multi-agent AI software engineering system that transforms natural-language requirements
+  into complete software projects through planning, architecture, and automated code generation.<br/>
+  <img src="{{ '/images/ai-eningeer.png' | relative_url }}">
+
 collection: portfolio
 ---
 
