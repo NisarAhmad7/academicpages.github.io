@@ -1,23 +1,26 @@
 ---
 
 permalink: /
+
 title: "👋 Hello, I'm Nisar Ahmad Zamani"
+
 author_profile: true
---------------------
+
+---
 
 <div style="display: flex; align-items: center; gap: 30px;">
   <div style="flex: 1;">
+
     I’m a **Machine Learning & AI Engineer** focused on building practical, data-driven AI systems and intelligent applications.
 
-```
-My work spans **Machine Learning, Deep Learning, NLP, Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI**.
+    My work spans **Machine Learning, Deep Learning, NLP, Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI**.
 
-I enjoy turning real-world problems into practical AI solutions using **Python, PyTorch, Scikit-learn, LangChain, LangGraph, vector databases, and modern deployment tools**.
-```
+    I enjoy turning real-world problems into practical AI solutions using **Python, PyTorch, Scikit-learn, LangChain, LangGraph, vector databases, and modern deployment tools**.
 
   </div>
 
   <img src="{{ '/images/homepage.png' | relative_url }}" alt="Nisar Ahmad Zamani" width="300">
+
 </div>
 
 ---
@@ -104,9 +107,9 @@ Worked on **Machine Learning, NLP, data preprocessing, exploratory data analysis
 
 ## 🏆 Achievements
 
-* **1st Place — Machine Learning Competition, RANA Durokhshan, 2025**
-* **Top 1% Student — RANA Durokhshan Academy, 2026**
-* **AI-Powered Chatbot Recognition — 2025**
+- **1st Place — Machine Learning Competition, RANA Durokhshan, 2025**
+- **Top 1% Student — RANA Durokhshan Academy, 2026**
+- **AI-Powered Chatbot Recognition — 2025**
 
 These achievements reflect my practical interest in **Machine Learning, Artificial Intelligence, problem-solving, and AI application development**.
 
