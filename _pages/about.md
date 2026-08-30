@@ -1,20 +1,15 @@
 ---
 
 permalink: /
-
 title: "👋 Hello, I'm Nisar Ahmad Zamani"
-
 author_profile: true
-
----
+--------------------
 
 <div style="display: flex; align-items: center; gap: 30px;">
-
   <div style="flex: 1;">
+    I’m a **Machine Learning & AI Engineer** focused on building practical, data-driven AI systems and intelligent applications.
 
 ```
-I’m a Machine Learning & AI Engineer focused on building practical, data-driven AI systems and intelligent applications.
-
 My work spans **Machine Learning, Deep Learning, NLP, Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI**.
 
 I enjoy turning real-world problems into practical AI solutions using **Python, PyTorch, Scikit-learn, LangChain, LangGraph, vector databases, and modern deployment tools**.
@@ -22,10 +17,7 @@ I enjoy turning real-world problems into practical AI solutions using **Python, 
 
   </div>
 
-<img src="{{ '/images/homepage.png' | relative_url }}"
-    alt="Nisar Ahmad Zamani"
-    width="300">
-
+  <img src="{{ '/images/homepage.png' | relative_url }}" alt="Nisar Ahmad Zamani" width="300">
 </div>
 
 ---
