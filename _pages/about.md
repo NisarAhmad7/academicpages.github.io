@@ -8,7 +8,7 @@ author_profile: true
 
 ---
 
-<div style="display: flex; align-items: center; gap: 35px;">
+<div style="display: flex; align-items: center; gap: 30px;">
 
   <div style="flex: 1;">
 
@@ -134,7 +134,7 @@ My learning and project experience cover:
 
 For a detailed overview of my experience, technical skills, projects, and achievements:
 
-[View / Download My CV →](/files/CV.pdf)
+[View / Download My CV →](/files/resume.pdf)
 
 ---
 
