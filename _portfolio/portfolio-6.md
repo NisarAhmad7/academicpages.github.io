@@ -1,4 +1,5 @@
 ---
+
 title: "NeuroChat AI — NLP Chatbot"
 
 excerpt: >-
@@ -7,6 +8,7 @@ excerpt: >-
   <img src="{{ '/images/nuron-cchat-ai.png' | relative_url }}">
 
 collection: portfolio
+
 ---
 
 ## NeuroChat AI

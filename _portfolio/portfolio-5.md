@@ -1,4 +1,5 @@
 ---
+
 title: "Resume Screening System"
 
 excerpt: >-
@@ -7,6 +8,7 @@ excerpt: >-
   <img src="{{ '/images/resume-screaning.png' | relative_url }}">
 
 collection: portfolio
+
 ---
 
 ## Resume Screening System

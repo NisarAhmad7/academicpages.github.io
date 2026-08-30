@@ -3,7 +3,8 @@
 title: "Medicine Recommendation System"
 
 excerpt: >-
-An intelligent medicine recommendation system for recommending relevant medicines based on user-provided symptoms and medical information.<br/> <img src="{{ '/images/medecine.png' | relative_url }}">
+  An intelligent medicine recommendation system for recommending relevant medicines based on user-provided symptoms and medical information.<br/>
+  <img src="{{ '/images/medecine.png' | relative_url }}">
 
 collection: portfolio
 
@@ -15,12 +16,12 @@ An **intelligent medicine recommendation system** built using **Machine Learning
 
 ### Key Features
 
-* Symptom-based medicine recommendation
-* Text preprocessing and data processing
-* Feature extraction from medical information
-* Similarity-based recommendation
-* Relevant and personalized medicine suggestions
-* User-friendly interaction for generating recommendations
+- Symptom-based medicine recommendation
+- Text preprocessing and data processing
+- Feature extraction from medical information
+- Similarity-based recommendation
+- Relevant and personalized medicine suggestions
+- User-friendly interaction for generating recommendations
 
 ### Technologies
 

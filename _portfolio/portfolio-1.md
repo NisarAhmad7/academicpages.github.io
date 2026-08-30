@@ -1,10 +1,14 @@
 ---
+
 title: "AI Shopping Assistant"
+
 excerpt: >-
   A multi-agent AI shopping assistant for intelligent product search, review analysis,
   recommendations, and checkout.<br/>
   <img src="{{ '/images/ai-shopping.png' | relative_url }}">
+
 collection: portfolio
+
 ---
 
 ## AI Shopping Assistant

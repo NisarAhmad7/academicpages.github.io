@@ -1,4 +1,5 @@
 ---
+
 title: "CodePilot AI — Multi-Agent Software Engineer"
 
 excerpt: >-
@@ -7,6 +8,7 @@ excerpt: >-
   <img src="{{ '/images/ai-eningeer.png' | relative_url }}">
 
 collection: portfolio
+
 ---
 
 ## CodePilot AI

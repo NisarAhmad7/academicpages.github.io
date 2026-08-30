@@ -1,4 +1,5 @@
 ---
+
 title: "Market Segmentation System"
 
 excerpt: >-
@@ -7,6 +8,7 @@ excerpt: >-
   <img src="{{ '/images/market-seg.png' | relative_url }}">
 
 collection: portfolio
+
 ---
 
 ## Market Segmentation System

@@ -3,7 +3,8 @@
 title: "SQL Query Generator"
 
 excerpt: >-
-An AI-powered SQL query generation system that converts natural-language requests into SQL queries for database interaction and analysis.<br/> <img src="{{ '/images/sql.png' | relative_url }}">
+  An AI-powered SQL query generation system that converts natural-language requests into SQL queries for database interaction and analysis.<br/>
+  <img src="{{ '/images/sql.png' | relative_url }}">
 
 collection: portfolio
 
@@ -15,12 +16,12 @@ An **AI-powered SQL query generation system** that converts natural-language use
 
 ### Key Features
 
-* Natural-language to SQL query generation
-* Automated SQL query construction
-* Database interaction and query execution
-* Structured retrieval of database information
-* Support for data analysis through natural-language requests
-* LLM-powered query generation workflow
+- Natural-language to SQL query generation
+- Automated SQL query construction
+- Database interaction and query execution
+- Structured retrieval of database information
+- Support for data analysis through natural-language requests
+- LLM-powered query generation workflow
 
 ### Technologies
 
