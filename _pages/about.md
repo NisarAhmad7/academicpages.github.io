@@ -9,6 +9,7 @@ author_profile: true
 ---
 
 <div style="display: flex; align-items: center; gap: 30px;">
+
   <div style="flex: 1;">
 
     I’m a **Machine Learning & AI Engineer** focused on building practical, data-driven AI systems and intelligent applications.
